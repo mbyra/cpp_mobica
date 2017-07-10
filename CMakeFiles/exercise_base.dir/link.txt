@@ -1,0 +1,2 @@
+/usr/bin/ar qc libexercise_base.a  CMakeFiles/exercise_base.dir/sys/catch_main.cpp.o CMakeFiles/exercise_base.dir/sys/utilities.cpp.o
+/usr/bin/ranlib libexercise_base.a

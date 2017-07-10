@@ -1,0 +1,6 @@
+/home/int_maby/Documents/cpp_mobica/build/CMakeFiles/rebuild_cache.dir
+/home/int_maby/Documents/cpp_mobica/build/CMakeFiles/edit_cache.dir
+/home/int_maby/Documents/cpp_mobica/build/CMakeFiles/hello_world.dir
+/home/int_maby/Documents/cpp_mobica/build/CMakeFiles/exercise_base.dir
+/home/int_maby/Documents/cpp_mobica/build/CMakeFiles/module01.dir
+/home/int_maby/Documents/cpp_mobica/build/CMakeFiles/module02.dir

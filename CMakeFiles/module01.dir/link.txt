@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++14 -g -Wall -Wextra -pedantic -Werror -g   CMakeFiles/module01.dir/module01_1.cpp.o CMakeFiles/module01.dir/module01_2.cpp.o CMakeFiles/module01.dir/module01_3.cpp.o  -o module01 -rdynamic libexercise_base.a 
